@@ -123,4 +123,4 @@ jobs:
             fetch-depth: 0
        - name: teste
          shell: bash
-         run: sh 'src/main/scripts/testeFuncional.sh'
+         run: sh 'src/main/scripts/testesFuncionais.sh'
